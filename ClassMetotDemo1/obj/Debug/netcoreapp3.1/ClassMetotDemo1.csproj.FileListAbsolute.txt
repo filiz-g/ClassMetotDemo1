@@ -1,0 +1,13 @@
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\netcoreapp3.1\ClassMetotDemo1.exe
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\netcoreapp3.1\ClassMetotDemo1.deps.json
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\netcoreapp3.1\ClassMetotDemo1.runtimeconfig.json
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\netcoreapp3.1\ClassMetotDemo1.runtimeconfig.dev.json
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\netcoreapp3.1\ClassMetotDemo1.dll
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\netcoreapp3.1\ClassMetotDemo1.pdb
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\netcoreapp3.1\ClassMetotDemo1.csprojAssemblyReference.cache
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\netcoreapp3.1\ClassMetotDemo1.AssemblyInfoInputs.cache
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\netcoreapp3.1\ClassMetotDemo1.AssemblyInfo.cs
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\netcoreapp3.1\ClassMetotDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\netcoreapp3.1\ClassMetotDemo1.dll
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\netcoreapp3.1\ClassMetotDemo1.pdb
+C:\Users\Zeynep\Desktop\Yeni klasör (4)\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\netcoreapp3.1\ClassMetotDemo1.genruntimeconfig.cache
